@@ -44,3 +44,5 @@ This will redirect you to the original URL associated with the short code.
 
 
 **please refer to the documentation for more details**
+
+**Documentation link** : https://docs.google.com/document/d/1BXGQyzuzvfXXcmdPLK75z7ai2GMI0wclMBd7u-atuyc/edit?usp=sharing
