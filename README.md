@@ -1,20 +1,20 @@
-*URL Shortener API Assignment*
+**URL Shortener API Assignment**
 
-*Overview*
+**Overview**
 
 The URL Shortener API allows users to shorten long URLs and retrieve the original URLs using
 a short code. It is built using FastAPI and PostgreSQL. This documentation provides details on
 how to set up, run, and use the API. Database is deployed in a liver server using render and
 FastAPI application is deployed using vercel app, details are mentioned below.
 
-*Features*
+**Features**
 
 ● Shorten URL: Accept a long URL and return a shortened version.
 ● Redirect to Original URL: Retrieve the original URL using the shortened code and
 redirect to it.
 ● Retrieve All URL Details: Fetch all stored URLs and their corresponding short codes.
 
-*Technology Stack*
+**Technology Stack**
 ● FastAPI: For building the web API.
 ● PostgreSQL: For storing the original URLs and their corresponding short codes.
 ● SQLAlchemy: For database ORM.
@@ -22,7 +22,7 @@ redirect to it.
 ● Render: For Database deployment
 ● Vercel: For Backend deployment
 
-*Requirements*
+**Requirements**
 ● Python 3.8+
 ● PostgreSQL
 ● FastAPI
@@ -30,7 +30,7 @@ redirect to it.
 ● Uvicorn (for running the FastAPI application)
 
 
-*Live Application Details*
+**Live Application Details**
 
 URL Shortener Application is deployed using Vercel. You can interact with the live application
 and test the endpoints directly.
@@ -43,4 +43,4 @@ This will redirect you to the original URL associated with the short code.
 
 
 
-*please refer to the documentation for more details*
+**please refer to the documentation for more details**
